@@ -1,1 +1,1 @@
-# kafka-in-10min-video-code
+# kafka simple project using python, and creating zookeeper, kafka cluster, producer, consumer using terminal and demonstrating the realtime data manually producing through producer and tracking the data in consumer section.
